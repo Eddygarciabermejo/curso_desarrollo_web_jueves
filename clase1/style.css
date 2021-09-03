@@ -1,0 +1,17 @@
+header{
+    background-color: blue;
+}
+
+
+.div-clase{
+
+    height: 200px;
+    width: 50%;
+    background-color: red;
+}
+
+#id-ul{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+}
